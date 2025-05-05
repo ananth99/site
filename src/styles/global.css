@@ -1,8 +1,12 @@
 @import "tailwindcss";
 @import "./typography.css";
+@import "./fonts.css";
 
 @custom-variant dark (&:where([data-theme=dark], [data-theme=dark] *));
 
+@theme {
+  --font-sans: 'Nebula Sans', 'sans-serif';
+}
 :root,
 html[data-theme="light"] {
   --background: #fdfdfd;
@@ -38,7 +42,7 @@ html[data-theme="dark"] {
     @apply overflow-y-scroll scroll-smooth;
   }
   body {
-    @apply flex min-h-svh flex-col bg-background font-mono text-foreground selection:bg-accent/75 selection:text-background;
+    @apply flex min-h-svh flex-col bg-background font-sans text-foreground selection:bg-accent/75 selection:text-background;
   }
   a,
   button {
