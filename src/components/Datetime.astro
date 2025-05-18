@@ -24,11 +24,6 @@ const date = myDatetime.toLocaleDateString(LOCALE.langTag, {
   month: "short",
   day: "numeric",
 });
-
-const time = myDatetime.toLocaleTimeString(LOCALE.langTag, {
-  hour: "2-digit",
-  minute: "2-digit",
-});
 ---
 
 <div class={`flex items-end space-x-2 opacity-80 ${className}`.trim()}>
@@ -59,8 +54,7 @@ const time = myDatetime.toLocaleTimeString(LOCALE.langTag, {
   }
   <span class={`italic ${size === "sm" ? "text-sm" : "text-sm sm:text-base"}`}>
     <time datetime={myDatetime.toISOString()}>{date}</time>
-    <span aria-hidden="true"> | </span>
     <span class="sr-only">&nbsp;at&nbsp;</span>
-    <span class="text-nowrap">{time}</span>
+    <!-- <span class="text-nowrap">{time}</span> -->
   </span>
 </div>

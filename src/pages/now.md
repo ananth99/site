@@ -10,10 +10,9 @@ This is my "now page" - a snapshot of what I'm focusing on at this point in my l
 *Last updated: May 17, 2025*
 
 ## Current Focus
-- Working on improving my personal blog with Astro
+- Working on improving the 3rd iteration of my personal blog
 - Reading "The Bitcoin Standard" by Saifedean Ammous
 - [Kindle Jailbreaking](https://kindlemodding.org/jailbreaking/WinterBreak/) and installed [KOReader](https://koreader.rocks) on Kindle PW
-  - Setup [Calibre](https://calibre-ebook.com/)
 
 ## Vibes on Deck
 <div>
