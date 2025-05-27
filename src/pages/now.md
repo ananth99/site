@@ -16,7 +16,7 @@ This is my "now page" - a snapshot of what I'm focusing on at this point in my l
 
 ## Vibes on Deck
 <div>
-<iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/album=837877769/size=large/bgcol=ffffff/linkcol=2ebd35/tracklist=false/artwork=small/track=2832225102/transparent=true/" seamless><a href="https://carbonbasedlifeforms.bandcamp.com/album/derelicts">Derelicts by Carbon Based Lifeforms</a></iframe>
+<iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/album=573277954/size=large/bgcol=ffffff/linkcol=2ebd35/tracklist=false/artwork=small/track=3103613091/transparent=true/" seamless><a href="https://tipper.bandcamp.com/album/surrounded">Surrounded by Tipper</a></iframe>
 </div>
 
 *This page was inspired by [Derek Sivers' now page movement](https://nownownow.com/about).*
