@@ -7,16 +7,16 @@ title: "Now"
 
 This is my "now page" - a snapshot of what I'm focusing on at this point in my life.
 
-*Last updated: Jun 26th, 2025*
+*Last updated: Jul 19th, 2025*
 
 ## Current Focus
 - Working on improving the 3rd iteration of my personal blog
 - Reading "Breath" by James Nestor
-- [Kindle Jailbreaking](https://kindlemodding.org/jailbreaking/WinterBreak/) and installed [KOReader](https://koreader.rocks) on Kindle PW
+- Started Learning [Kalaripayattu](https://en.wikipedia.org/wiki/Kalaripayattu) since the beginning of Jul, 25 
 
 ## Vibes on Deck
 <div>
-<iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/track=932668332/size=large/bgcol=ffffff/linkcol=2ebd35/tracklist=false/artwork=small/transparent=true/" seamless><a href="https://fourtet.bandcamp.com/track/into-dust-still-falling">Into Dust (Still Falling) by Four Tet</a></iframe>
+<iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/track/3eLF7e1ODaSX82yKUOuV3i?utm_source=generator" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 </div>
 
 *This page was inspired by [Derek Sivers' now page movement](https://nownownow.com/about).*
