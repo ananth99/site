@@ -22,7 +22,7 @@ export default defineConfig({
     },
   },
   vite: {
-    plugins: [tailwindcss()],
+    plugins: [tailwindcss() as any],
     optimizeDeps: {
       exclude: ["@resvg/resvg-js"],
     },
@@ -30,10 +30,5 @@ export default defineConfig({
   image: {
     // Used for all Markdown images; not configurable per-image
     // Used for all `<Image />` and `<Picture />` components unless overridden with a prop
-    experimentalLayout: "responsive",
-  },
-  experimental: {
-    svg: true,
-    responsiveImages: true,
   },
 });

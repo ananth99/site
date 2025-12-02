@@ -14,6 +14,8 @@ This is my "now page" - a snapshot of what I'm focusing on at this point in my l
 - Started Learning [Kalaripayattu](https://en.wikipedia.org/wiki/Kalaripayattu) since the beginning of Jul, 25 
 
 ## Vibes on Deck
-<iframe style="border: 0; width: 400px; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/album=324097/size=large/bgcol=ffffff/linkcol=2ebd35/tracklist=false/artwork=small/track=881111774/transparent=true/" seamless><a href="https://stevegood.bandcamp.com/album/something-that-never-existed">Something That Never Existed by Steve Good</a></iframe>
+<div>
+<iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/album=4061237728/size=large/bgcol=ffffff/linkcol=2ebd35/tracklist=false/artwork=small/track=2638517015/transparent=true/" seamless><a href="https://solarfields.bandcamp.com/album/until-we-meet-the-sky-remastered-24bit">Until We Meet The Sky (remastered) (24bit) by Solar Fields</a></iframe>
+</div>
 
 *This page was inspired by [Derek Sivers' now page movement](https://nownownow.com/about).*
