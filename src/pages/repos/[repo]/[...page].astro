@@ -38,7 +38,7 @@ const { page, repoName } = Astro.props;
     titleTransition={repo}
     pageDesc={`All the articles related to the repository "${repoName}".`}
   >
-    <h1 slot="title" transition:name={repo}>{`Repo:${repo}`}</h1>
+    <h1 slot="title" transition:name={repo}>{`Repo: ${repoName}`}</h1>
     <ul>
       {
         page.data.map(({ data, id }) => (
